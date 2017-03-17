@@ -1,8 +1,21 @@
 body {
 	background: lightblue;
 	color: red;
+        font-family: sans;
 }
 
 .encabezado{
-	background: lime; 
+  background: blue;
+}
+
+.producto{
+  display: inline-block;
+}
+
+#menu{
+   background:#620ed1;
+}
+
+#footer{
+   background:#0e7dd1;
 }
